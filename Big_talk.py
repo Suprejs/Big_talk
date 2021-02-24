@@ -1,6 +1,6 @@
 import numpy as np
 import time
-
+#start up!
 class Bull():
     """描述游戏环境的类"""
 
